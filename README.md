@@ -1,0 +1,1 @@
+Danfit Studio, a website designed to promote a dance studio and streamline the booking process for classes and events. The site aims to enhance the studio's online presence and make it easier for clients to engage with the studio's offerings
